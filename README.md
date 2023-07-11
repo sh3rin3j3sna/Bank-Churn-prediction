@@ -1,5 +1,5 @@
 # Bank-Churn-prediction
-
+The data set is from Kaggle : https://www.kaggle.com/datasets/aakash50897/churn-modellingcsv
 # 1. Introduction
 For this study, I hope to accomplish the following:
 a.Determine and visualise the elements that contribute to client churn:
